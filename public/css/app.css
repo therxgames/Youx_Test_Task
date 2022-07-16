@@ -1,0 +1,10 @@
+.news__wrap {
+    padding-top: 30px;
+    background-color: antiquewhite;
+}
+
+.news__item {
+    background: #FFF;
+    padding: 20px;
+    border-radius: 10px;
+}
